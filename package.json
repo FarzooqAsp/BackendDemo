@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "basic application to see how to deploy an application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "backend"
+  ],
+  "author": "Durrani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
